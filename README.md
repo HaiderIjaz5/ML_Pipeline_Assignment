@@ -68,11 +68,11 @@ RandomForest    0.8621     0.8643  0.8621  0.8622
 
 Selected evaluation figures:
 
-![Figure 4: 4) Model Training](img_04.png)
+![Figure 4: 4) Model Training](Images/img_04.png)
 
-![Figure 5: 4) Model Training](img_05.png)
+![Figure 5: 4) Model Training](Images/img_05.png)
 
-![Figure 5: 4) Model Training](img_06.png)
+![Figure 5: 4) Model Training](Images/img_06.png)
 
 
 
@@ -80,13 +80,13 @@ Selected evaluation figures:
 
 Top features according to Random Forest:
 
-![Figure 7: 5) Feature Importance (Random Forest)](img_07.png)
+![Figure 7: 5) Feature Importance (Random Forest)](Images/img_07.png)
 
 
 
 ## 5. ROC Curve (Best Model)
 
-![Figure 8: 7) Model Evaluation & ROC Curve](img_08.png)
+![Figure 8: 7) Model Evaluation & ROC Curve](Images/img_08.png)
 
 
 
