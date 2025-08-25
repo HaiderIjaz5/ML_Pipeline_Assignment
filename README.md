@@ -21,9 +21,9 @@
 
 - Exploratory analysis highlighted distributions and relationships among key variables.
 
-![Figure 1: 2) Exploratory Data Analysis (EDA)](img_01.png)
+![Figure 1: 2) Exploratory Data Analysis (EDA)](Images/img_01.png)
 
-![Figure 2: 2) Exploratory Data Analysis (EDA)](img_02.png)
+![Figure 2: 2) Exploratory Data Analysis (EDA)](Images/img_02.png)
 
 
 
